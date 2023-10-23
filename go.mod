@@ -1,4 +1,4 @@
-module github.com/Goldziher/fabricator
+module github.com/nikitakhliestov/fabricator
 
 go 1.21
 
